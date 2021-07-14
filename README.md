@@ -9,4 +9,4 @@ xxyourmoon/xxyourmoon is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/xxyourmoon">GRANDØMX</a></h1><!-- 👋 -->
+<a href="https://github.com/xxyourmoon">XXYOURMOON</a></h1><!-- 👋 -->
