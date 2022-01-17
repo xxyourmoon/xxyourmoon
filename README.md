@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on **Secret Stuff Project**.
 - 🤔 I’m looking for help with **Unity Documentation**.
 - 💬 Ask me about **Web development and tech releted stuff**.
-- 📫 How to reach me: **Discord** - **Corleone#2020** , **Instagram** - [**xxyourmoon**](https://www.instagram.com/xxyourmoon/)
+- 📫 How to reach me: **Discord** - **SleepCat#1944** , **Instagram** - [**sleep_cattt**](https://www.instagram.com/sleep_cattt/)
 - 😄 Pronouns: **He/His**
 - ⚡ Fun fact: **I'm more comfortable coding and learning anything at the same time listening to music**,  Iam also **GTA 5 Roleplay enthusiastic**
 
