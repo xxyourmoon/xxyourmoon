@@ -1,13 +1,13 @@
 <h1 align="center">😎Hello, my name is Fatih Attala Sastya Putra</h1>
 <h3 align="center">I am a fullstack developer and a designer from Indonesia</h3>
 
-- 👨‍💻 I'm working on a project **CanAnythinkBot**
+- 👨‍💻 I'm working on a project **Road To Be Programmer**
 
-- ✌ I’m looking to collaborate on **CanAnythinkBot**
+- ✌ I’m looking to collaborate on **SFX For Road To Be Programmer game**
 
 - 📊 All about my project and information is on [[COMING SOON]]([COMING SOON])
 
-- 💬 Ask me about **discord.js, javascript, typescript**
+- 💬 Ask me about **discord.js, javascript, typescript, C#, Unity**
 
 - 📫 This is my email **fatihattala666@gmail.com**
 
